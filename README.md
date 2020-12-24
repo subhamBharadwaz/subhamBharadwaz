@@ -24,6 +24,6 @@
 <br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=subhamBharadwaz&show_icons=true&theme=radical) 
-![Code gif](https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif6)
+![Code gif](https://media1.tenor.com/images/d6fcd41b8522f719964a946b18367d27/tenor.gif?itemid=12626969)
 
 
