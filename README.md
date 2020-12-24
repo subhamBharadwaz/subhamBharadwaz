@@ -23,6 +23,7 @@
 <br>
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=subhamBharadwaz&show_icons=true&theme=radical) ![Code gif](https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif6)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=subhamBharadwaz&show_icons=true&theme=radical) 
+![Code gif](https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif6)
 
 
