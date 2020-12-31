@@ -32,6 +32,9 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+<br>
+<br>
+
 #### Github Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
