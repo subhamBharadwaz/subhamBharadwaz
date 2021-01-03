@@ -49,11 +49,12 @@
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-
 ```text
-No Activity tracked this Week
+JavaScript   3 hrs 11 mins   ████████████████▒░░░░░░░░   65.60 % 
+CSS          56 mins         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+HTML         37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
-
 <!--END_SECTION:waka-->
 
 <br>
