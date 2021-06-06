@@ -12,8 +12,10 @@
 
 ## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-<a  href="https://github.com/subhamBharadwaz" target="blank"><img width="40" src="https://img.icons8.com/nolan/64/github.png"/></a>
+<a href="https://www.linkedin.com/in/subham-bharadwaz-5a9792197/"><img width="40" src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
+<a href="https://twitter.com/subham_shyamal"><img width="40" src="https://img.icons8.com/nolan/64/twitter.png"/></a>
 <a href="https://instagram.com/mercury_rebornn" target="blank"><img width="40" src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
+<a  href="https://github.com/subhamBharadwaz" target="blank"><img width="40" src="https://img.icons8.com/nolan/64/github.png"/></a>
 
 ---
 
