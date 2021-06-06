@@ -86,5 +86,5 @@
 <br>
 <br>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamBharadwaz&layout=compact&card_width=445&theme=" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamBharadwaz&layout=compact&card_width=445&theme=tokyonight" />
 </a>
