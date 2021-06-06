@@ -14,8 +14,6 @@
 <a  href="https://github.com/subhamBharadwaz" target="blank"><img src="https://img.icons8.com/nolan/64/github.png"/></a>
 <a href="https://instagram.com/mercury_rebornn" target="blank"><img src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
 
-## <!--START_SECTION:activity-->
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
