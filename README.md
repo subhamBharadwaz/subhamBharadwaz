@@ -10,45 +10,65 @@
 - ⚡ Fun fact **I love Anime**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a  href="https://github.com/subhamBharadwaz" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Subham Bharadwaz" height="30" width="40" /></a>
-<a href="https://instagram.com/mercury_rebornn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mercury_rebornn" height="30" width="40" /></a>
- 
-</p>
 
-<!--START_SECTION:activity-->
+<a  href="https://github.com/subhamBharadwaz" target="blank"><img src="https://img.icons8.com/ios/50/000000/github--v2.png"/></a>
+<a href="https://instagram.com/mercury_rebornn" target="blank"><img src="https://img.icons8.com/fluent-systems-regular/48/000000/instagram-new--v2.png"/></a>
+
+## <!--START_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
-
-<p>
-  <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png height=35px width=35px>
-   <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png height=35px width=35px>
-   <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png height=35px width=35px>
-   <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png height=35px width=35px>
-   <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png height=35px width=35px>
-   <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png height=35px width=35px>
-   <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png height=35px width=35px>
-   <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png height=35px width=35px>
-   <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png height=35px width=35px>
-   <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png height=35px width=35px>
-   <img src=https://cdn.iconscout.com/icon/free/png-512/adobe-xd-1869035-1583159.png height=35px width=35px>
-   <img src=https://cdn.iconscout.com/icon/free/png-512/figma-1693589-1442630.png height=35px width=35px>
-   <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png height=35px width=35px>
-   <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Illustrator_CC_icon.png/492px-Illustrator_CC_icon.png height=35px width=35px>
-   <img src=https://iconape.com/wp-content/png_logo_vector/materialize-logo.png height=35px width=35px>
-   <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png height=35px width=35px>
-   <img src=https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png height=35px width=35px>
-   <img src=https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_mkrd7ymg/def_height/962/def_width/1838/version/100011/type/2/q/100 height=35px width=45px>
-   <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png height=35px width=35px>
-
-</p>
 
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
 [<code>
-<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-</code>](https://www.jetbrains.com/idea/)
+<img alt="git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
+</code>](https://git-scm.com/)
+[<code>
+<img alt="linux" width="26px" src="https://img.icons8.com/color/48/000000/linux.png"/>
+</code>](https://www.linux.org/)
+[<code>
+<img alt="java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+</code>](https://www.java.com/en/)
+[<code>
+<img alt="c++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+</code>](https://www.w3schools.com/cpp/)
+[<code>
+<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+</code>](https://www.javascript.com/)
+[<code>
+<img alt="css3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<code>
+<img alt="html5" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<code>
+<img alt="reactjs" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
+</code>](https://reactjs.org/)
+[<code>
+<img alt="nextjs" width="26px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" />
+</code>](https://nextjs.org/)
+[<code>
+<img alt="sass" width="26px" src="https://img.icons8.com/color/48/000000/sass.png"/>
+</code>](https://sass-lang.com/)
+[<code>
+<img alt="nodejs" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+</code>](https://nodejs.org/en/)
+[<code>
+<img alt="express" width="26px" src="https://image.pngaaa.com/155/5051155-middle.png"/>
+</code>](https://expressjs.com/)
+[<code>
+<img alt="mongodb" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</code>](https://www.mongodb.com/)
+
+[<code>
+<img alt="figma" width="26px" src="https://img.icons8.com/color/48/000000/figma.png"/>
+</code>](https://www.figma.com/)
+[<code>
+<img alt="adobe-xd" width="26px" src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>
+</code>](https://www.adobe.com/)
+
+---
 
 <br>
 <br>
