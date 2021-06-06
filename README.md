@@ -11,8 +11,8 @@
 
 ## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-<a  href="https://github.com/subhamBharadwaz" target="blank"><img src="https://img.icons8.com/nolan/64/github.png"/></a>
-<a href="https://instagram.com/mercury_rebornn" target="blank"><img src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
+<a  href="https://github.com/subhamBharadwaz" target="blank"><img width="40" src="https://img.icons8.com/nolan/64/github.png"/></a>
+<a href="https://instagram.com/mercury_rebornn" target="blank"><img width="40" src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
 
 ---
 
