@@ -2,15 +2,14 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Next.js**
-- 🔭 I’m currently working on my final year project!
+- 🔭 I’m currently working on a my final year project!
 
 - 💬 Ask me about **JS, CSS**
 
 - 📫 How to reach me **subhamsbharadwaz@gmail.com**
 
 - ⚡ Fun fact **I love Anime** <img width="25" src="https://img.icons8.com/color/48/4a90e2/boruto-uzumaki.png"/>
-
-<br/>
+  <br/>
 
 ## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
@@ -19,7 +18,9 @@
 <a href="https://instagram.com/mercury_rebornn" target="blank"><img width="40" src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
 <a  href="https://github.com/subhamBharadwaz" target="blank"><img width="40" src="https://img.icons8.com/nolan/64/github.png"/></a>
 
-## <br/>
+<br/>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
