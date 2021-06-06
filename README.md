@@ -43,18 +43,12 @@
 
 </p>
 
----
-
-### Languages and Tools:
-
-[
+[<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-](https://code.visualstudio.com/)
-[
+</code>](https://code.visualstudio.com/)
+[<code>
 <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-](https://www.jetbrains.com/idea/)
-
----
+</code>](https://www.jetbrains.com/idea/)
 
 <br>
 <br>
