@@ -9,10 +9,10 @@
 
 - ⚡ Fun fact **I love Anime**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-<a  href="https://github.com/subhamBharadwaz" target="blank"><img src="https://img.icons8.com/ios/50/000000/github--v2.png"/></a>
-<a href="https://instagram.com/mercury_rebornn" target="blank"><img src="https://img.icons8.com/fluent-systems-regular/48/000000/instagram-new--v2.png"/></a>
+<a  href="https://github.com/subhamBharadwaz" target="blank"><img src="https://img.icons8.com/nolan/64/github.png"/></a>
+<a href="https://instagram.com/mercury_rebornn" target="blank"><img src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
 
 ## <!--START_SECTION:activity-->
 
