@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=subhamBharadwaz&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 - 🌱 I’m currently learning **Next.js**
-- 🔭 I’m currently working on a my final year project!
+- 🔭 I’m currently working on my personal blog, https://www.subhambharadwaz.codes .
 
 - 💬 Ask me about **JS, CSS**
 
