@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 - 🔭 I’m currently working on **Personal Projects**.
-- 💬 Ask me about **JS, CSS**
+- 💬 Ask me about **JS, CSS and Life LOL**
 - 📫 How to reach me **subhamsbharadwaz@gmail.com**
 - ⚡ Fun fact **I love Anime** <img width="25" src="https://img.icons8.com/color/48/4a90e2/boruto-uzumaki.png"/>
 
