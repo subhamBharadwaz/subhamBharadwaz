@@ -77,6 +77,8 @@
 
 <br>
 
+<img align='right' src="https://i.pinimg.com/originals/c8/a8/db/c8a8dbd0771f93d11467be7c553d6922.gif" width="530" height="300">
+
 ## <img height="25" src="https://img.icons8.com/wired/64/4a90e2/merge-git.png"/> Github Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
