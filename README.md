@@ -1,24 +1,27 @@
-<h1 align="center">Hi, I'm Subham! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+<img src="https://media3.giphy.com/media/uKWBNet3fFTP9ZDZIg/giphy.gif" width="790" height="400" alt="hello everyone">
+<p>
+<h1 align="center">Konnichiwa <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt = "Waving hand animation" width = "40px" height = "40px"> <br></h1>
+<h3 align="center">A passionate full-stack web developer from India</h3>
+
+<img align='right' src="https://i2.wp.com/i.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy-downsized.gif?w=770&ssl=1" width="230">
+<p>
 
 ![](https://komarev.com/ghpvc/?username=subhamBharadwaz&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 - 🌱 I’m currently learning **DevOps**
 - 🔭 I’m currently working on **Personal Projects**.
-
 - 💬 Ask me about **JS, CSS**
-
 - 📫 How to reach me **subhamsbharadwaz@gmail.com**
-
 - ⚡ Fun fact **I love Anime** <img width="25" src="https://img.icons8.com/color/48/4a90e2/boruto-uzumaki.png"/>
-  <br/>
+
+</p>
 
 ## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 <a href="https://www.linkedin.com/in/subham-bharadwaz-5a9792197/"><img width="40" src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
-<a href="https://twitter.com/subham_shyamal"><img width="40" src="https://img.icons8.com/nolan/64/twitter.png"/></a>
+<a href="https://twitter.com/subh4mBharadwaz"><img width="40" src="https://img.icons8.com/nolan/64/twitter.png"/></a>
 <a href="https://instagram.com/mercury_rebornn" target="blank"><img width="40" src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
-
 
 <br/>
 
@@ -26,9 +29,6 @@
 
 <h2 align="left">Languages and Tools:</h3>
 
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
 [<code>
 <img alt="git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
 </code>](https://git-scm.com/)
@@ -48,13 +48,10 @@
 <img alt="css3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
 <img alt="reactjs" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
 [<code>
-<img alt="nextjs" width="26px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" />
+<img alt="nextjs" width="26px" src="https://blog.logrocket.com/wp-content/uploads/2020/11/Nextjs-logo.png" />
 </code>](https://nextjs.org/)
 [<code>
 <img alt="sass" width="26px" src="https://img.icons8.com/color/48/000000/sass.png"/>
