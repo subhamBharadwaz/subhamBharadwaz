@@ -27,65 +27,37 @@
 
 ---
 
-<h2 align="left">Languages and Tools:</h3>
+## Languages and Tools
 
-[<code>
-<img alt="git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
-</code>](https://git-scm.com/)
-[<code>
-<img alt="linux" width="26px" src="https://img.icons8.com/color/48/000000/linux.png"/>
-</code>](https://www.linux.org/)
-[<code>
-<img alt="java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-</code>](https://www.java.com/en/)
-[<code>
-<img alt="c++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-</code>](https://www.w3schools.com/cpp/)
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://www.javascript.com/)
-[<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="reactjs" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
-[<code>
-<img alt="nextjs" width="26px" src="https://blog.logrocket.com/wp-content/uploads/2020/11/Nextjs-logo.png" />
-</code>](https://nextjs.org/)
-[<code>
-<img alt="sass" width="26px" src="https://img.icons8.com/color/48/000000/sass.png"/>
-</code>](https://sass-lang.com/)
-[<code>
-<img alt="nodejs" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-</code>](https://nodejs.org/en/)
-[<code>
-<img alt="express" width="26px" src="https://image.pngaaa.com/155/5051155-middle.png"/>
-</code>](https://expressjs.com/)
-[<code>
-<img alt="mongodb" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-</code>](https://www.mongodb.com/)
-
-[<code>
-<img alt="figma" width="26px" src="https://img.icons8.com/color/48/000000/figma.png"/>
-</code>](https://www.figma.com/)
-[<code>
-<img alt="adobe-xd" width="26px" src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>
-</code>](https://www.adobe.com/)
-
----
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=Vercel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![PlanetScale](https://img.shields.io/badge/PlanetScale-000000?style=flat&logo=PlanetScale&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Mongo_DB-47A248?style=flat&logo=MongoDB&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat&logo=DigitalOcean&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 <br>
-
-<img align='right' src="https://i.pinimg.com/originals/c8/a8/db/c8a8dbd0771f93d11467be7c553d6922.gif" width="530" height="300">
 
 ## <img height="25" src="https://img.icons8.com/wired/64/4a90e2/merge-git.png"/> Github Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img " src="https://github-readme-stats.vercel.app/api?username=subhamBharadwaz&show_icons=true&theme=tokyonight" />
-</a>
 <br>
-<br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamBharadwaz&layout=compact&card_width=445&theme=tokyonight" />
-</a>
+<p align="center">
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <img alt="Black Initial's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=subhamBharadwaz&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Black Initial's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamBharadwaz&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=php" height="192px"/>
+</p>
