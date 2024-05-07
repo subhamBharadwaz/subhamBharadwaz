@@ -20,8 +20,8 @@
 ## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 <a href="https://www.linkedin.com/in/subham-bharadwaz-5a9792197/"><img width="40" src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
-<a href="https://twitter.com/subh4mBharadwaz"><img width="40" src="https://img.icons8.com/nolan/64/twitter.png"/></a>
-<a href="https://instagram.com/subham.bharadwaz" target="blank"><img width="40" src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
+<a href="https://twitter.com/webhashira"><img width="40" src="https://img.icons8.com/nolan/64/twitter.png"/></a>
+<a href="https://instagram.com/webhashira" target="blank"><img width="40" src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
 
 <br/>
 
