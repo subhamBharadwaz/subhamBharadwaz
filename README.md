@@ -2,32 +2,24 @@
 <img src="https://media3.giphy.com/media/uKWBNet3fFTP9ZDZIg/giphy.gif" width="100%" height="40%" alt="hello everyone">
 <p>
 <h1 align="center">Konnichiwa <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt = "Waving hand animation" width = "40px" height = "40px"> <br></h1>
-<h3 align="center">A passionate full-stack web developer from India</h3>
 
-<img align='right' src="https://i2.wp.com/i.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy-downsized.gif?w=770&ssl=1" width="40%">
-<p>
+Full Stack Web Developer
+------------------------
 
-![](https://komarev.com/ghpvc/?username=subhamBharadwaz&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+I'm a passionate full stack web developer with a strong focus on frontend technologies. My expertise lies in building seamless and performant web applications using Next.js. I hold a Bachelor's degree in Computer Applications and am currently pursuing my Master's in Computer Applications, continuously enhancing my skills and staying up-to-date with the latest industry trends.
 
-- 🌱 I’m currently learning **DevOps**
-- 🔭 I’m currently working on **Personal Projects**.
-- 💬 Ask me about anything **except life 🤧**
-- 📫 How to reach me **subhamsbharadwaz@gmail.com**
-- ⚡ Fun fact **I love Anime** <img width="25" src="https://img.icons8.com/color/48/4a90e2/boruto-uzumaki.png"/>
+* 🌍  I'm based in India
+* ✉️  You can contact me at [subhamsbharadwaz@gmail.com](mailto:subhamsbharadwaz@gmail.com)
+* 🚀  I'm currently working on [Scribbly](http://(s)://scribbly.subhambharadwaz.in)
+* 🧠  I'm learning Golang
+* 🤝  I'm open to collaborating on Interesting projects
 
-</p>
 
-## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+### Socials
 
-<a href="https://www.linkedin.com/in/subham-bharadwaz-5a9792197/"><img width="40" src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
-<a href="https://twitter.com/webhashira"><img width="40" src="https://img.icons8.com/nolan/64/twitter.png"/></a>
-<a href="https://instagram.com/webhashira" target="blank"><img width="40" src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
+<p align="left"> <a href="https://www.github.com/subhamBharadwaz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/webhashira" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/subham-bharadwaz-5a9792197" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/webhashira" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-<br/>
-
----
-
-## Languages and Tools
+### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -53,7 +45,7 @@
 
 <br>
 
-## <img height="25" src="https://img.icons8.com/wired/64/4a90e2/merge-git.png"/> Github Stats
+### <img height="25" src="https://img.icons8.com/wired/64/4a90e2/merge-git.png"/> Github Stats
 
 <br>
 <p align="center">
