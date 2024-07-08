@@ -45,6 +45,12 @@ I'm a passionate full stack web developer with a strong focus on frontend techno
 
 <br>
 
+### Spotify
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jdef6h8x2asu180ulrlrh6jaz)
+
+<br>
+
 ### <img height="25" src="https://img.icons8.com/wired/64/4a90e2/merge-git.png"/> Github Stats
 
 <br>
