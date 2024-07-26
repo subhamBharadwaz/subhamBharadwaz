@@ -54,8 +54,6 @@ I'm a passionate full stack web developer with a strong focus on frontend techno
 ### <img height="25" src="https://img.icons8.com/wired/64/4a90e2/merge-git.png"/> Github Stats
 
 <br>
-<p align="center">
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <img alt="Black Initial's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=subhamBharadwaz&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<p>
   <img alt="Black Initial's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamBharadwaz&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=php" height="192px"/>
 </p>
