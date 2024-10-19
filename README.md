@@ -10,7 +10,7 @@ I'm a passionate full stack web developer with a strong focus on frontend techno
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [subhamsbharadwaz@gmail.com](mailto:subhamsbharadwaz@gmail.com)
-* 🚀  I'm currently working on [Scribbly](https://scribbly.subhambharadwaz.in)
+* 🚀  I'm currently working on multiple projects
 * 🧠  I'm learning Golang
 * 🤝  I'm open to collaborating on Interesting projects
 
